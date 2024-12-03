@@ -38,7 +38,7 @@ Projeyi çalıştırmak için aşağıdaki adımları izleyebilirsiniz:
 
 Projenin örnek bir ekran görüntüsü aşağıdaki gibidir:
 
-*![alt text](image.png)*
+![EkranGörüntüsü](https://github.com/user-attachments/assets/e9dee865-8009-4032-8c1d-8a12dd56a231)
 
 ## Katkıda Bulunma
 
